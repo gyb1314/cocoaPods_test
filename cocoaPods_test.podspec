@@ -7,7 +7,7 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'gyb'
+  s.name             = 'cocoaPods_test'
   s.version          = '0.1.0'
   s.summary          = 'A short description of cocoaPods_test.'
 
